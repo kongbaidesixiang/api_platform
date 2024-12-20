@@ -1,0 +1,5 @@
+com\rz\rzclientsdk\client\HttpClient.class
+com\rz\rzclientsdk\util\SignUtil.class
+com\rz\rzclientsdk\model\dto\User.class
+com\rz\rzclientsdk\RzAPIClientConfig.class
+META-INF\spring-configuration-metadata.json
